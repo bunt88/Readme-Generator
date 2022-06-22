@@ -1,7 +1,7 @@
 # README Generator
-![license](https://img.shields.io/badge/license-Eclipse-blue.svg)
+![license](https://img.shields.io/badge/license-Boost-blue.svg)
 ## Description
-Generates README Files
+Generates Readme Files
 ## Table of Contents
     
 - [Installation](#installation)
@@ -12,15 +12,15 @@ Generates README Files
 - [Credits](#credits)
 
 ## Installation
-Download
+download'
 ## Usage
-Run Node index inside the terminal
+use in terminal
 ## How to Contribute
-This is not an open source project
+not an opensource project
 ## Tests
-by running the program in the terminal
+run in the terminal
 ## License
-Eclipse
+Boost
 ## Questions
 for questions please refer to my [GitHub](https://github.com/bunt88)
 or contact me through my [Email](bunt88@gmail.com)
