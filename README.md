@@ -1,6 +1,6 @@
 # Professional README Generator
 
-As a developer I want to create an appliation that can generate a README file with generated prompts and user entered responses.
+As a developer I want to create an application that can generate a README file with generated prompts and user entered responses.
 
 
 
